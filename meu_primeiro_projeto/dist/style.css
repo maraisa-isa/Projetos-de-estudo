@@ -1,0 +1,52 @@
+body {
+  background: brown;
+}
+#title, .subtitle {
+  color: bl;
+}
+#title {
+  font-family: monotype corsiva;
+  font-size: 50px;
+}
+.subtitle {
+  font-family: algerian;
+  font-size: 20px;
+  font-weight: bold; 
+}
+.post_title {
+  color: brown;
+  font-size: 20px;
+  font-style: italic;
+  text-decoration: underline;
+}
+.img-1 {
+  height: 200px;
+  border: 3px solid black;
+  border-radius:60%;
+}
+.img-2 {
+  height: 200px;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+.post {
+  background: grey;
+  padding:20px;
+  border: 3px solid black;
+  border-radius: 10px;
+  margin:3px;
+}
+.post_content{
+text-align: justify;
+font-family: calibri;
+font-weight: bold;
+}
+.contact_list{
+  color: black;
+  font-weight: bold;
+  list-style-type: none;
+  padding-left: 15px;
+}
+.contact{
+  color: black;
+}
